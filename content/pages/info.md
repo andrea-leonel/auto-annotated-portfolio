@@ -12,11 +12,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## I'm a data analyst, writer and podcaster. I travel the world. Life's
+      great.
+
     media:
       type: ImageBlock
       url: /images/WhatsApp Image 2024-07-22 at 15.57.39_421cef27.jpg
