@@ -11,7 +11,7 @@ sections:
       (these are in Portuguese, though!)
     actions:
       - type: Button
-        label: Hire me
+        label: Want to collaborate or discuss something you saw here? Get in touch!
         altText: ''
         url: /
         showIcon: true
