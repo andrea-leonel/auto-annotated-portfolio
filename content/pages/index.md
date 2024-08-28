@@ -6,9 +6,9 @@ sections:
   - type: HeroSection
     title: 'I''m a data analyst, writer and podcaster'
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Welcome to my little world in the great wide web. Please feel free to
+      check out my analysis portfolio, my data blog, and my travel podcasts
+      (these are in Portuguese, though!)
     actions:
       - type: Button
         label: Hire me
