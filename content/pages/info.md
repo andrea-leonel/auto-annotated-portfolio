@@ -59,7 +59,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'Companies I have worked for or collaborated with:'
     images:
       - type: ImageBlock
         url: /images/logo1.svg
